@@ -1,3 +1,52 @@
-#title{
-	color:red;
+* {
+	font-family: Arial;
+	
+}
+body {
+	width:100%;
+	margin: 0; 
+}
+
+header {
+	height:  100px;
+	background: #00008B ;
+}
+#logo {
+	float: left;
+	margin: 20px;
+}
+header h3{
+	line-height: 5;
+	color: white
+}
+body {
+	background: #c0c0c0;
+}
+
+article {
+width: 40%;
+padding: 2.5%;
+}	
+
+
+.left: {
+	float: left;
+	
+}
+
+.right {
+	float: right;
+}
+
+article img {
+	width: 100%
+}
+.right img {
+
+}
+.product{
+	display: flex;
+	flex-flow: row;
+	justify-content: center;  
+
 }
