@@ -1,11 +1,13 @@
 * {
+
 	font-family: Arial;
 	
 }
 body {
 	width:100%;
-	margin: 0; 
+	margin: 0%; 
 }
+
 
 header {
 	height:  100px;
@@ -37,9 +39,12 @@ padding: 2.5%;
 .right {
 	float: right;
 }
+.skyblue color: {
+	color:#00BFFF;
+}
 
 article img {
-	width: 100%
+	width: 100% 
 }
 .right img {
 
@@ -48,5 +53,5 @@ article img {
 	display: flex;
 	flex-flow: row;
 	justify-content: center;  
-
 }
+
